@@ -331,7 +331,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [schema](https://github.com/keleshev/schema) - A library for validating Python data structures.
 * [schematics](https://github.com/schematics/schematics) - Data Structure Validation.
 * [voluptuous](https://github.com/alecthomas/voluptuous) - A Python data validation library.
+* [kmatch](https://github.com/ambitioninc/kmatch) - A language for matching/validating/filtering Python dictionaries
 * [pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints.
+* [kmatch](https://github.com/ambitioninc/kmatch) - A language for matching/validating/filtering Python dictionaries.
 
 ## Data Visualization
 
